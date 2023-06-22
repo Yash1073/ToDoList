@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  color: rgb(77, 100, 55);
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 3px 3px 4px lightgreen;
+  margin: 50px 0;
+  /* font-family: 'Acme', sans-serif; */
+  /* font-family: 'Anton', sans-serif; */
+  /* font-family: 'Baloo Bhai 2', cursive; */
+  /* font-family: 'Cormorant SC', serif; */
+  font-family: 'Fasthand', cursive;
+  font-family: 'Freehand', cursive;
+  font-family: 'Ibarra Real Nova', serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.img_div {
+  display: flex;
+  justify-content: center;
+}
+
+.img_div img {
+  /* margin: auto; */
+  height: 150px;
+  width: 200px;
+
+}
